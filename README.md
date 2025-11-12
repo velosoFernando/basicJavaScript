@@ -31,7 +31,8 @@ Ele me deu uma base sólida em **lógica de programação**, **manipulação de 
 ---
 
 ### 🤖 Aplicando o Conhecimento  
-Todo o aprendizado obtido no curso está sendo aplicado diretamente na criação de **scripts e automações de testes end-to-end**, explorando frameworks modernos como **Cypress** e **Playwright**.  
+Todo o aprendizado obtido no curso está sendo aplicado diretamente na criação de **scripts e automações de testes end-to-end**, explorando frameworks modernos como **Cypress** e **Playwright**.
+
 Essas ferramentas me permitem validar o comportamento de aplicações web completas, garantindo **qualidade, desempenho e confiabilidade** nos projetos que desenvolvo. 💪  
 
 ---
