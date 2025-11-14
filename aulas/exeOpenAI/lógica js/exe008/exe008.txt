@@ -1,0 +1,3 @@
+8️⃣ Calcular idade
+
+Peça o ano de nascimento e mostre a idade atual (considerando o ano atual com new Date().getFullYear()).

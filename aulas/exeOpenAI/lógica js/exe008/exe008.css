@@ -1,0 +1,22 @@
+body {
+    background-color: coral;
+}
+
+h1 {
+    font: 20pt normal Arial;
+    font-weight: bolder;
+}
+
+p {
+    font: 15pt normal Arial;
+}
+
+input {
+    font: 15pt normal Arial;
+    width: 100px;
+}
+
+div {
+    font: 15pt normal Arial;
+    padding-top: 15px;
+}
