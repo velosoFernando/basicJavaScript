@@ -5,3 +5,5 @@ Primeira tentativa: Consultei bastante os primeiros arquivos!
 Segunta tentativa: Errei em coisas bobas de digitação.
 
 Terceira tentativa: Errei variáveis e descobri que não se somam 3 números.
+
+Quarta tentativa: CONSEGUI!
