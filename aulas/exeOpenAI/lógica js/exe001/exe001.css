@@ -1,0 +1,26 @@
+h1 {
+    font: 20pt normal Arial;
+    font-weight: bolder;
+    color: black;
+}
+
+div {
+    font: 15pt normal arial;
+    padding: 20px 0px 0px 0px;
+    color: black;
+}
+
+body {
+    background-color: violet;
+}
+
+input {
+    font: 15pt normal Arial;
+    width: 100px;
+}
+
+.button {
+    font: 15pt normal Arial;
+    font-style: italic;
+    font-weight: bolder;
+}
