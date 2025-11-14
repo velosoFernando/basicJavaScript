@@ -1,0 +1,6 @@
+7️⃣ Dobro e metade
+Ao digitar um número, mostre o dobro e a metade dele na mesma linha.
+
+Primeira tentativa:
+
+
