@@ -1,0 +1,19 @@
+body {
+    background: pink;
+}
+
+h1 {
+    font: 20pt normal Arial;
+    font-weight: bolder;
+}
+
+input {
+    font: 12pt normal Arial;
+    border-radius: 80px;
+    width: 70px;
+}
+
+div {
+    font: 15pt normal Arial;
+    padding-top: 15px;
+}
