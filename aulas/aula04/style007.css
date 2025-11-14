@@ -1,0 +1,21 @@
+body, h1 {
+    font: 18pt normal Arial;
+    font-weight: bolder;
+    color: black;
+    background-color: white;
+}
+
+input {
+    font: 18pt normal Arial;
+    font-weight: bolder;
+    color: black;
+    background-color: white;
+    width: 100px;
+}
+
+div {
+    font: 18pt normal Arial;
+    font-weight: bolder;
+    color: black;
+    padding: 20px 0px 0px 0px;
+}
