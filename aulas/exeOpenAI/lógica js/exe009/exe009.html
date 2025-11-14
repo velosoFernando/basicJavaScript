@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Converter Temperatura</title>
+    <link rel="stylesheet" href="exe009.css">
+</head>
+<body>
+    <h1>Converta a Temperatura</h1>
+    <p class="celsius">Insira a temperatura em Celsius e veja como ela fica em Fahrenheit!</p>
+    <input type="number" value="celsius" id="celsius">
+    <input type="button" value="Converta" onclick="celsius()">
+    <div class="cel" id="res1">Saiba o resultado inserindo o valor em Celsius acima!</div>
+
+    <p class="fahrenheit">Insira a temperatura em Fahrenheit e veja como ela fica em Celsius!</p>
+    <input type="number" value="fahrenheit" id="fahrenheit">
+    <input type="button" value="Converta" onclick="fahrenheit()">
+    <div class="fah" id="res2">Saiba o resultado inserindo o valor em Fahrenheit acima!</div>
+
+    <h2>Como é feito o cálculo?</h2>
+    <p>Para converter <strong>Celsius</strong> em <strong>Fahrenheit</strong> temos a fóruma abaixo:<br><br>
+    <strong>F = [(C * 1.8) + 32]</strong><br><br>
+    Ou seja, para que você consiga converter de grau Celsius para Fahrenheit, basta multiplicar a temperatura em graus Celsius por 1.8 e somar 32.
+    </p><br>
+    <p>Para converter <strong>Fahrenheit</strong> em <strong>Celsius</strong> temos a fóruma abaixo:<br><br>
+    <strong>C = {[(F - 32) * 5] / 9}</strong><br><br>
+    Ou seja, para que você consiga converter de Fahrenheit para grau Celsius é necessário subtrair a temperatura em F por 32, depois multiplicar por 5 e no fim dividir esse valor por 9.
+    </p>
+
+    <script src="exe009.js"></script>
+</body>
+</html>

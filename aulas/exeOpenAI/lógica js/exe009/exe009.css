@@ -1,0 +1,28 @@
+body {
+    font: 15pt normal Arial;
+    background-color: bisque;
+}
+
+p {
+    font: 13pt normal Arial;
+}
+
+h2 {
+    padding-top: 50px;
+}
+
+input {
+    font: 13pt normal Arial;
+    width: 100px;
+}
+
+.fahrenheit, .celsius {
+    padding-top: 30px;
+    font: 14pt normal Arial;
+    font-style: italic;
+}
+
+.cel, .fah {
+    padding-top: 15px;
+}
+
