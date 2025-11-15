@@ -1,0 +1,23 @@
+body {
+    background: pink;
+}
+
+h1 {
+    font: 20pt normal Arial;
+}
+
+input {
+    font: 10pt normal Arial;
+    color: gray;
+    width: 150px;
+}
+
+button {
+    font: 10pt normal Arial;
+    width: 80px;
+}
+
+div {
+    font: 15pt normal Arial;
+    padding-top: 15px;
+}
