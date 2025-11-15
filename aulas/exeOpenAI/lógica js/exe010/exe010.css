@@ -1,0 +1,47 @@
+body {
+    background: pink;
+}
+
+section {
+    padding-top: 100px;
+    text-align: center;
+}
+
+.portugues {
+    font: 16px normal Arial;
+    padding-top: 20px;
+}
+
+.nota1 {
+    font: 16px normal Arial;
+    padding-top: 8px;
+}
+
+.matematica {
+    font: 16px normal Arial;
+    padding-top: 20px;
+}
+
+.nota2 {
+    font: 16px normal Arial;
+    padding-top: 8px;
+}
+
+.historia {
+    font: 16px normal Arial;
+    padding-top: 20px;
+}
+
+.nota3 {
+    font: 16px normal Arial;
+    padding-top: 8px;
+}
+
+input {
+    width: 100px;
+}
+
+.mediaGeral {
+    font: 20pt normal Arial;
+    padding-top: 15px;
+}

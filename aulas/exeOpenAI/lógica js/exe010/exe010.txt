@@ -1,0 +1,3 @@
+🔟 Calcular média de 3 notas
+
+Mostre se o aluno foi aprovado (>= 7) ou reprovado (< 7).
