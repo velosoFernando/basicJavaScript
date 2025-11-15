@@ -1,0 +1,3 @@
+1️⃣2️⃣ Contar letras de uma palavra
+
+Digite uma palavra e exiba quantas letras ela tem (.length)
