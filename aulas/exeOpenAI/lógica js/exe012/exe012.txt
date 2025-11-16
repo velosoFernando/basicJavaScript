@@ -1,3 +1,6 @@
 1️⃣2️⃣ Contar letras de uma palavra
 
-Digite uma palavra e exiba quantas letras ela tem (.length)vtg
+Digite uma palavra e exiba quantas letras ela tem (.length)
+
+Primeira tentativa: Não sabia como fazer, então consultei bastante.
+
