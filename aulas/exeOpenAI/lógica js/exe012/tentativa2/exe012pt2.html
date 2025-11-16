@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contador de Caracteres 2</title>
+    <link rel="stylesheet" href="exe012pt2.css">
+</head>
+<body>
+<center>
+    <h1>Conte Caracteres</h1>
+    <p>Insira palavras e veja a mágica acontecer!</p>
+    <div class="container-geral">
+        <div class="linha">
+        <section class="caixa-esq">
+            <h2>Contagem Total</h2>
+            <p>Essa contagem abrange todos os caracteres!</p>
+            <input type="text" name="txtTotal" id="txtTotal">
+            <button type="button" onclick="total()">Confira</button>
+            <div class="txtComp" id="txtComp">O resultado é:</div>
+
+            <h2>Contagem de Letras</h2>
+            <p>Essa contagem não abrange nada além de letras!</p>
+            <input type="text" name="txtLetras" id="txtLetras">
+            <button type="button" onclick="letras()">Confira</button>
+            <div class="txtLet" id="txtLet">O resultado é:</div>
+        </section>
+
+        <section class="caixa-dir">
+            <h2>Contagem de Maiúsculas</h2>
+            <p>Essa contagem abrange apenas letras maiúsculas!</p>
+            <input type="text" name="txtMaiusculas" id="txtMaiusculas">
+            <button type="button" onclick="maiusculas()">Confira</button>
+            <div class="txtMai" id="txtMai">O resultado é:</div>
+
+            <h2>Contagem de Minúsculas</h2>
+            <p>Essa contagem não abrange apenas letras minúsculas!</p>
+            <input type="text" name="txtMinusculas" id="txtMinusculas">
+            <button type="button" onclick="minusculas()">Confira</button>
+            <div class="txtMin" id="txtMin">O resultado é:</div>
+        </section>
+        </div>
+    </div>
+    <script src="exe012pt2.js"></script>
+</center>
+</body>
+</html>
