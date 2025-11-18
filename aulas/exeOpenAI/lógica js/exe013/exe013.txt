@@ -4,3 +4,7 @@ Digite uma palavra e mostre-a ao contrário.
 
 Primeira tentativa: Precisei consultar, já que não sabia como realizar.
 Segunda tentativa: Consultei duas vezes!
+
+
+
+Dicas: .split(""), .reverse(), .join("")

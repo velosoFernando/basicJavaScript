@@ -1,0 +1,31 @@
+body {
+    background: wheat;
+}
+
+h1 {
+    font: 50pt normal Arial;
+    font-weight: bolder;
+}
+
+p {
+    font: 15pt normal Arial;
+}
+
+h2 {
+    font: 30pt normal Arial;
+    font-weight: bolder;
+}
+
+.container-geral {
+    border: solid black;
+    border-radius: 20px;
+    width: fit-content;
+    padding: 20px 20px 20px 20px;
+    background: tomato;
+    color: white;
+}
+
+.res {
+    font: 15pt normal Arial;
+    padding-top: 20px;
+}
