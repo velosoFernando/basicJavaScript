@@ -1,0 +1,5 @@
+1️⃣3️⃣ Inverter texto
+
+Digite uma palavra e mostre-a ao contrário.
+
+Primeira tentativa: Precisei consultar, já que não sabia como realizar.

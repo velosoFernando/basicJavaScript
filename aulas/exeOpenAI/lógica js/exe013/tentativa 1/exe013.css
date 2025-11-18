@@ -1,0 +1,30 @@
+.container-geral {
+    border: 2px solid #000;
+    padding: 30px 20px 40px 20px;
+    border-radius: 10px;
+    width: fit-content;
+    background: tomato;
+}
+
+body {
+    background-color: bisque;
+}
+
+h1 {
+    font: 50pt normal Arial;
+    font-weight: bolder;
+}
+
+p {
+    font: 14pt normal Arial;
+}
+
+h2 {
+    font: 30pt normal Arial;
+    font-weight: bolder;
+}
+
+.res {
+    font: 14pt normal Arial;
+    padding-top: 20px;
+}
