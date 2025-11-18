@@ -1,0 +1,27 @@
+body {
+    background: wheat;
+}
+
+h1 {
+    font: 50pt normal Arial;
+}
+
+p {
+    font: 20pt normal Arial;
+}
+
+h2 {
+    font: 30pt normal Arial;
+}
+
+.res {
+    font: 15px normal Arial;
+    padding-top: 15px;
+}
+
+.container-geral {
+    border: 2px solid black;
+    width: fit-content;
+    border-radius: 20px;
+    padding: 20px 20px 20px 20px;
+}
