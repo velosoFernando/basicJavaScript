@@ -1,0 +1,6 @@
+1️⃣4️⃣ Verificar se é par ou ímpar
+Digite um número e diga se ele é par ou ímpar.
+
+Primeira tentiva: Não deu certo.
+Segunda tentativa: Fiz sozinho, mas não conferi o localhost.
+Terceira tentativa: FEITO!!

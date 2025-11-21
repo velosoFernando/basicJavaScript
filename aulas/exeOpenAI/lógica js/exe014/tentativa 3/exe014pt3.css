@@ -1,0 +1,31 @@
+body {
+    background: salmon;
+}
+
+h1 {
+    font: 50pt normal Arial;
+    font-weight: bolder;
+    margin-bottom: -15px;
+}
+
+p {
+    font: 20pt normal Arial;
+}
+
+.containerGeral {
+    border: solid 2px;
+    border-radius: 20px;
+    width: fit-content;
+    padding: 20px 20px 20px 20px;
+}
+
+h2 {
+    font: 30pt normal Arial;
+    font-weight: bolder;
+    margin-bottom: 10px;
+}
+
+.res {
+    font: 15pt normal Arial;
+    margin-top: 10px;
+}
