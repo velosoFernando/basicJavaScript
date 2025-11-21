@@ -1,0 +1,39 @@
+body {
+    background: slateblue;
+}
+
+h1 {
+    font: 50pt normal Arial;
+    color: whitesmoke;
+    margin-bottom: 10px;
+}
+
+p {
+    font: 20pt normal Arial;
+    color: whitesmoke;
+    margin-top: 0;
+}
+
+h2 {
+    font: 30pt normal Arial;
+    color: whitesmoke;
+    font-weight: bolder;
+    margin-bottom: 10px;
+}
+
+.containerGeral {
+    border: solid 2px white;
+    border-radius: 20px;
+    width: fit-content;
+    padding: 10px 10px 10px 10px;
+}
+
+input {
+    margin-top: 0;
+}
+
+div {
+    font: 15pt normal Arial;
+    color: whitesmoke;
+    margin-top: 10px;
+}
