@@ -1,0 +1,33 @@
+body {
+    background: silver;
+}
+
+h1 {
+    font: 50pt normal Arial;
+    color: black;
+    font-weight: bolder;
+}
+
+p {
+    font: 15pt normal Arial;
+}
+
+h2 {
+    font: 30pt normal Arial;
+    color: black;
+    font-weight: bolder;
+}
+
+.res {
+    font: 15pt normal Arial;
+    padding-top: 20px;
+}
+
+.container-geral {
+    border: solid 2px black;
+    border-radius: 10px;
+    padding: 20px 20px 20px 20px;
+    width: fit-content;
+    background: thistle;
+}
+
