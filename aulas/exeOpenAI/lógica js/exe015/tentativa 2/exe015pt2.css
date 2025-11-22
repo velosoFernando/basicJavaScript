@@ -1,0 +1,44 @@
+body {
+    background: tomato;
+}
+
+h1 {
+    font: 50pt normal Arial;
+    font-weight: bolder;
+    margin-bottom: -5px;
+}
+
+p {
+    font: 20pt normal Arial;
+}
+
+.containerGeral {
+    border: solid 3px;
+    border-radius: 20px;
+    width: fit-content;
+    padding: 20px 20px 20px 20px;
+}
+
+h2 {
+    font: 40pt normal Arial;
+    font-weight: bolder;
+    margin-bottom: -2px;
+    margin-top: -10px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+input {
+    text-align: center;
+}
+
+.res {
+    font: 15pt normal Arial;
+}
+
+
