@@ -1,0 +1,47 @@
+body {
+    background: yellow;
+}
+
+h1 {
+    font: 50pt normal Arial;
+    margin-bottom: -10px;
+    font-weight: bolder;
+}
+
+p {
+    font: 20px normal Arial;
+}
+
+h2 {
+    font: 30pt normal Arial;
+    font-weight: bolder;
+}
+
+.containerGeral {
+    border: solid 3px;
+    border-radius: 20px;
+    width: fit-content;
+    padding: 20px 20px 20px 20px;
+}
+
+input, button {
+  display: block;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+input {
+    text-align: center;
+}
+
+.res {
+    font: 15pt normal Arial;
+}
+
