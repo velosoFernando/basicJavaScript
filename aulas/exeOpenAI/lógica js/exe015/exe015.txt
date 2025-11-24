@@ -3,4 +3,4 @@
 Compare dois números e mostre qual é maior (ou se são iguais).
 
 Primeira tentativa = Não deu certo!
-Segunda tentativa =
+Segunda tentativa = Feito sem consulta!
