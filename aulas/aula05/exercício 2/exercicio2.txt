@@ -1,0 +1,2 @@
+A pessoa que não nasceu no Brasil deve receber a mensagem de que é estrangeira.
+A pessoa que nasceu no Brasil deve receber a mensagem de que é Brasileira.
