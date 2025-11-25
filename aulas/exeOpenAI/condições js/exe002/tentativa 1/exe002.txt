@@ -1,0 +1,3 @@
+2. Verificar se a pessoa é maior de idade
+
+Receba a idade e exiba se é maior ou menor de idade.
