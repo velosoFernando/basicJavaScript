@@ -1,0 +1,16 @@
+| Categoria |    Emoji    | Prefixo                                     | Uso típico |
+| ---------- | :---------: | ------------------------------------------- | ---------- |
+| ✨         |   feat:     | Nova funcionalidade                         |            |
+| 🐛         |   fix:      | Correção de bug                             |            |
+| 🚧         |   wip:      | Trabalho em andamento (Work In Progress)    |            |
+| 🔧         |   chore:    | Tarefas de manutenção, configs, scripts     |            |
+| 🧪         |   test:     | Adição ou alteração em testes               |            |
+| 📝         |   docs:     | Alterações em documentação                  |            |
+| 💄         |   style:    | Alterações visuais ou formatação            |            |
+| ♻️         |   refactor: | Reescrita de código sem mudar comportamento |            |
+| 📘         |   study:    | Estudo concluído (sem consulta)             |            |
+| 📗         |   study:    | Estudo concluído (com consulta)             |            |
+| 🧠         |   learn:    | Tarefa de aprendizado em andamento          |            |
+| 🚀         |   deploy:   | Publicação ou push final para produção      |            |
+| 🔥         |   remove:   | Remoção de arquivos/códigos                 |            |
+| 🆕         |   init:     | Criação inicial de projeto                  |            |
