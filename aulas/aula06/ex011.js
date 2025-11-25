@@ -1,0 +1,18 @@
+// Necessário ter cuidado com erros de lógica. 
+
+var idade = 14
+if (idade < 16) {
+    console.log(`Não vota!`)
+} else {
+    console.log(`Vota!`)
+}
+
+var idade = 16
+console.log(`Você tem ${idade} anos.`)
+if (idade < 16) {
+    console.log(`Não vota!`)
+} else if (idade < 18 || idade > 65) {
+    console.log(`Voto opcional!`)
+} else {
+    console.log(`Voto obrigatório!`)
+}
