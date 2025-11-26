@@ -1,0 +1,36 @@
+body {
+    background: #c8d197;
+}
+
+h3 {
+    font-size: 30pt;
+    font-family: sans-serif;
+    color: #473430;
+    margin-top: 0%;
+    margin-bottom: 10px;
+}
+
+.containerGeral {
+    margin-top: 15%;
+    border: solid 3px #473430;
+    border-radius: 30px;
+    width: fit-content;
+    padding: 20px 20px 20px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.resultado {
+    margin-top: 5px;
+    font-size: 15pt;
+    font-family: sans-serif;
+    color: #473430;
+}
+
+.button {
+    background: #11baac;
+    border-radius: 5px;
+    width: fit-content;
+    margin-top: 5px;
+}

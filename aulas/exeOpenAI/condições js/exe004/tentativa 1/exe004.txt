@@ -1,0 +1,4 @@
+4. Verificar login simples
+
+Receba um usuário e senha fixos (ex: “admin” e “1234”).
+Mostre “Acesso permitido” ou “Acesso negado”.

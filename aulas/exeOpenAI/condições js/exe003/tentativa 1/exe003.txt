@@ -1,0 +1,3 @@
+3. Número par ou ímpar
+
+Receba um número e diga se ele é par ou ímpar.
