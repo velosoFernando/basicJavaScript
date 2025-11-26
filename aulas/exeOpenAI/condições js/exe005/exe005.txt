@@ -1,0 +1,6 @@
+5. Comparar três números
+
+Receba três números e mostre o maior deles.
+
+Primeira tentativa: Precisei fazer uma consulta.
+Segunda tentativa: Sem consultas!
